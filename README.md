@@ -342,6 +342,8 @@ Now your backend API will be available at:
 https://api.yourdomain.com/api/search
 ```
 
+Replace all the api urls in the ``js`` folder with your own API URL.
+
 ---
 
 # 🖥 Frontend Setup
