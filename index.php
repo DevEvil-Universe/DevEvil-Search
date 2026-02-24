@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="description"
-		content="DevEvil Search is a fast, simple, open-source and private AI-powered search engine designed to provide lightning-quick results while ensuring user privacy.">
+		content="DevEvil Search is a fast, simple, open-source search engine designed to provide lightning-quick results while ensuring user privacy.">
 	<meta name="keywords"
 		content="devevil search, dev evil search, search, search engine, private search engine, ai, private, fast search engine, google, devevil, dev evil, dev, evil, developer, freelance, devevil99, devevil021, devevil themes, devevil universe, universe, dev evil universe, web designer, website developer, web developer, website designer">
 	<meta name="author" content="DevEvil Search">
@@ -18,7 +18,7 @@
 
 	<meta property="og:title" content="DevEvil Search">
 	<meta property="og:description"
-		content="DevEvil Search is a fast, simple, open-source and private AI-powered search engine designed to provide lightning-quick results while ensuring user privacy.">
+		content="DevEvil Search is a fast, simple, open-source search engine designed to provide lightning-quick results while ensuring user privacy.">
 	<meta property="og:image" content="https://search.devevil.com/img/logo.png">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="DevEvil Search">
@@ -27,7 +27,7 @@
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="DevEvil Search">
 	<meta name="twitter:description"
-		content="DevEvil Search is a fast, simple, open-source and private AI-powered search engine designed to provide lightning-quick results while ensuring user privacy.">
+		content="DevEvil Search is a fast, simple, open-source search engine designed to provide lightning-quick results while ensuring user privacy.">
 	<meta name="twitter:image" content="https://search.devevil.com/img/logo.png">
 
 	<link rel="stylesheet" href="./css/style.css?v=<?php echo time(); ?>">
@@ -60,7 +60,7 @@
 				<div class="logo-container">
 					<img src="./img/logo2.png" draggable="false" alt="DevEvil Search Logo" class="logo">
 					<p style="width: 100%; color: var(--third); margin-top: 10px;">
-						DevEvil Search is a fast, simple, open-source and private AI-powered search engine designed to provide lightning-quick results while ensuring user privacy.
+						DevEvil Search is a fast, simple, open-source search engine designed to provide lightning-quick results while ensuring user privacy.
 					</p>
 				</div>
 				<div class="input-container">
